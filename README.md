@@ -1,2 +1,2 @@
-# wechat-spring-boot-starter
-spring boot starter for wechat
+# wechat-central-control
+wechat central control service
